@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "img":"../images/Greys_burger.png",
+        "title":"Cheese Burger",
+        "location":"Burger Arena",
+        "price":3.88
+    },
+    {
+        "id":2,
+        "img":"../images/Donuts_hut.png",
+        "title":"Toffe’s Cake",
+        "location":"Top Sticks",
+        "price":7.00
+    },
+    {
+        "id":3,
+        "img":"../images/Dancake.png",
+        "title":"Dancake",
+        "location":"Cake World",
+        "price":5.00
+    },
+    {
+        "id":4,
+        "img":"../images/crispy_sandwitch.png",
+        "title":"Crispy Sandwitch",
+        "location":"Fastfood Dine",
+        "price":6.20
+    },
+    {
+        "id":5,
+        "img":"../images/Thai_soup.png",
+        "title":"Thai  Soup",
+        "location":"Foody man",
+        "price":2.79
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "img":"../images/foodworld.png",
+        "res":{
+            "name":"FoodWorld",
+            "img":"../images/foodworldres.png",
+            "rating":46
+        }
+    },
+    {
+        "id":2,
+        "img":"../images/pizzahub.png",
+        "res":{
+            "name":"Pizzahub",
+            "img":"../images/pizzahubres.png",
+            "rating":46
+        }
+    },
+    {
+        "id":3,
+        "img":"../images/Donuts_hut.png",
+        "res":{
+            "name":"Donuts hut",
+            "img":"../images/donutshutres.png",
+            "rating":46
+        }
+    },
+    {
+        "id":4,
+        "img":"../images/Subway.png",
+        "res":{
+            "name":"Subway",
+            "img":"../images/Subwayres.png",
+            "rating":46
+        }
+    },
+    {
+        "id":5,
+        "img":"../images/Ruby_Tuesday.png",
+        "res":{
+            "name":"Ruby Tuesday",
+            "img":"../images/Ruby_Tuesdayres.png",
+            "rating":46
+        }
+    },
+    {
+        "id":6,
+        "img":"../images/Kuakata_Fried_Chicken.png",
+        "res":{
+            "name":"Kuakata Fried Chicken",
+            "img":"../images/Kuakata_Fried_Chickenres.png",
+            "rating":46
+        }
+    },
+    {
+        "id":7,
+        "img":"../images/red_square.png",
+        "res":{
+            "name":"Red Square",
+            "img":"../images/red_squareres.png",
+            "rating":46
+        }
+    },
+    {
+        "id":8,
+        "img":"../images/Taco_Bell.png",
+        "res":{
+            "name":"Taco Bellres",
+            "img":"../images/Taco_Bellres.png",
+            "rating":46
+        }
+    }
+]
